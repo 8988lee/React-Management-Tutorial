@@ -1,5 +1,5 @@
 ## Manageent System
-React 강의 목적으로 만들어진 고객 관리 시스템입니다.
+React Management 고객관리
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
